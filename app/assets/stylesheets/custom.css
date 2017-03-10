@@ -21,7 +21,7 @@
 .devicon-javascript-plain,
 .devicon-css3-plain-wordmark
 {
-	font-size: 40px;
+	font-size: 85px;
 	color: #34495E;
 }
 
@@ -37,12 +37,17 @@ html {
 
 .tester:hover {
     opacity: 0.5;
-    filter: alpha(opacity=50); /* For IE8 and earlier */
+    filter: alpha(opacity=50);
 }
 
 .tester2 {
 	height: 250px;
 	width: 350px;
+}
+
+.tester3 {
+	height: 250px;
+	width: 250px;
 }
 
 
