@@ -16,7 +16,7 @@
 
 # I drew up a couple of wireframes and went to work. 
 
-<img src="https://www.dropbox.com/pri/get/20170313_083357.jpg?_subject_uid=232149607&w=AAB5dOu91pqcdKgieZMsl2DMH7cWx8k3Vvv6yVKAFaOgAQ" alt="low fidelity" style="width: 350px;"/>
+![wireframe](https://cloud.githubusercontent.com/assets/20296459/23836672/064a247a-07d0-11e7-8c6c-fd214fda311d.jpg)
 
 # Please rotate computer. 
 
